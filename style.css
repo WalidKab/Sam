@@ -1,0 +1,263 @@
+*,
+body {
+    margin: 0;
+}
+
+#header1 {
+    height: 260px;
+    background-image: url(pngtree-colorful-banner-red-and-yellow-background-image_337446.jpg);
+    border: 1px solid #CCC;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 85px;
+
+}
+
+.title1 {
+    font-size: 80px;
+    padding-top: 60px;
+}
+
+.image-clash {
+    justify-content: center;
+    width: 230px;
+}
+
+.img-cr {
+    background-image: url("5b84c34ccc8e19ddca50c951a03674eb.jpg");
+    background-size: cover;
+}
+
+.tex-cl {
+    font-size: 25px;
+}
+
+.taille-n {
+    height: 35px;
+
+}
+
+.padding-text {
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 70px;
+}
+
+
+.trailer {
+    padding: 0 0 80px 300px;
+    border-radius: 58px;
+}
+
+.head-roblox {
+    height: 280px;
+    background-image: url("1630069165764_CTA---Blueberry---5.jpg");
+    border: 1px solid #CCC;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1roblox {
+    text-align: center;
+    padding-top: 12px;
+    font-size: 92px;
+}
+
+.image-roblox {
+    height: 150px;
+}
+
+.image-rbl {
+    background-image: url("apps.39197.13510798883386282.f476c7a6-5575-43cc-b1ac-a4d911a9a568.png");
+    background-size: cover;
+    height: 100%;
+}
+
+.text-rbl {
+    font-size: 32px;
+    color: #e5dede;
+    height: 35px;
+}
+
+.image-n1 {
+    height: 35px;
+}
+
+.trailer-rbl {
+    padding: 0 0 80px 300px;
+    border-radius: 58px;
+}
+
+.ecrit {
+    color: black;
+}
+
+
+.head-subway {
+    height: 260px;
+    background-image: url("abstract-orange-polygonal-banner.jpg");
+    border: 1px solid #CCC;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1subway {
+    font-size: 80px;
+    padding-top: 30px;
+}
+
+.image-sbw {
+    background-image: url("subwaysurfers_01.png");
+    background-size: cover;
+    height: 100%;
+}
+
+.text-sbw {
+    font-size: 25px;
+    color: #000000;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px
+}
+
+.lien-header {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin-left: 25%;
+    justify-content: space-between;
+}
+
+footer {
+    width: 100%;
+    height: 305px;
+    background-color: #01013b;
+}
+
+.label1 {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+
+}
+
+.text-label {
+    color: white
+}
+
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #939090;
+    text-shadow: 1px 1px 1px #e0aa8d;
+    border-radius: 10px;
+    background-color: rgb(255, 67, 0);
+    background-image: linear-gradient(to top left,
+    rgba(0, 0, 0, .2),
+    rgba(0, 0, 0, .2) 30%,
+    rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(243, 225, 225, 0.6),
+    inset -2px -2px 3px rgb(236, 93, 4);
+}
+
+.styled:hover {
+    background-color: rgb(236, 93, 4);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+    inset 2px 2px 3px rgba(31, 29, 29, 0.6);
+}
+
+.lien-footer {
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    margin-left: 2%;
+    justify-content: space-between;
+    align-items: flex-end;
+
+}
+
+.label1 {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+
+}
+
+.head-homepage {
+    width: 100%;
+    height: 305px;
+    background-color: #01013b;
+    background-size: cover;
+}
+
+.image-home {
+    width: 100%;
+
+}
+
+.lien-home {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: dimgrey;
+}
+
+.trailer1 {
+    margin-top: 100px;
+}
+
+input:checked {
+    margin-left: 25px;
+    border: 1px solid blue;
+}
+
+.display {
+    display: none;
+
+}
+
+
+.box {
+    margin-left: 24px;
+}
+
+.box:checked + .display {
+    display: block;
+
+}
+
+.lien-header {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin-left: 25%;
+    justify-content: space-between;
+}
